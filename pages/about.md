@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 
-keywords: 
+keywords: Python MySQL Redis Mongodb
 comments: true
 menu: 关于
 permalink: /about/
