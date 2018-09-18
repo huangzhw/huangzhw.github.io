@@ -1,0 +1,11 @@
+--2018-09-18 08:28:04--  https://g.fp.ps.netease.com/nanny/file/5b9f999e5e60272bae357309ji3yzG4e.jpg
+Resolving g.fp.ps.netease.com (g.fp.ps.netease.com)... 183.131.107.149, 122.224.186.251
+Connecting to g.fp.ps.netease.com (g.fp.ps.netease.com)|183.131.107.149|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32492 (32K) [image/png]
+Saving to: ‘5b9f999e5e60272bae357309ji3yzG4e.jpg’
+
+     0K .......... .......... .......... .                    100% 3.30M=0.009s
+
+2018-09-18 08:28:04 (3.30 MB/s) - ‘5b9f999e5e60272bae357309ji3yzG4e.jpg’ saved [32492/32492]
+
