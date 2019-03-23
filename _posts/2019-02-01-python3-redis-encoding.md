@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python3 连接Redis字符串和字节问题探究
-categories: Python
+categories: Python Redis
 description: Python3 连接Redis字符串和字节问题探究
 keywords: Python3 Redis encode bytes str
 ---
